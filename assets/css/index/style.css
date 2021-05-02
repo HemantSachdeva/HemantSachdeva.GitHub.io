@@ -64,6 +64,8 @@ body {
     -webkit-backdrop-filter: blur(15px);
     border: #ffffffb9 solid 0px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    color: white;
+    background-color: #ffffff30
 }
 .buttons {
     min-width: 300px;
