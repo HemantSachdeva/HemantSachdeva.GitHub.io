@@ -1,2 +1,2 @@
-# coded by rf0x1d
-itunity666.github.io 2.0
+# художественный фильм спиздили
+WHAT DO YOU THINK YOU'RE DOING
