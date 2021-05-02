@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['curtana user ', "miui shit ", "ximi for gays ", "fucking slave ", "12 y.o ", "rf0x1d gay ", "cum "],
+      strings: ['Evolution X Designer ', "Resurrection Remix Designer ", "Cipher OS Designer ", "English-Russian Translator ", "13 y.o ", "Stole this repo lulz ", "Rip and Tear "],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
