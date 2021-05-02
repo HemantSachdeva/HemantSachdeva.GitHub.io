@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['Evolution X Designer ', "Resurrection Remix Designer ", "Cipher OS Designer ", "English-Russian Translator ", "13 y.o ", "Stole this repo lulz ", "Rip and Tear "],
+      strings: ['Evolution X Designer ', "Resurrection Remix Designer ", "@aboutbounty", "Cipher OS Designer ", "English-Russian Translator ", "@bountydrafts", "13 y.o ", "Stole this repo lulz ", "Rip and Tear "],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
