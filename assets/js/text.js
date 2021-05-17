@@ -20,8 +20,8 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['Evolution X Designer ', "Resurrection Remix Designer ", "@aboutbounty", "Cipher OS Designer ", "English-Russian Translator ", "@bountydrafts", "13 y.o ", "Stole this repo lulz ", "Rip and Tear "],
-      typeSpeed: 100,
+      strings: ['Contributing to Evolution X ', "Computer Science Student ", "@HemantSachdeva", "He Code When He's Bored ", "18 y.o "],
+      typeSpeed: 150,
       loop: true,
       cursorChar: "|",
   });
