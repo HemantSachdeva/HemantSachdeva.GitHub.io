@@ -21,7 +21,7 @@ $(function() {
 $(function() {
   $(".typed").typed({
       strings: ['Contributing to Evolution X ', "Computer Science Student ", "@HemantSachdeva", "He Code When He's Bored ", "18 y.o "],
-      typeSpeed: 150,
+      typeSpeed: 50,
       loop: true,
       cursorChar: "|",
   });
