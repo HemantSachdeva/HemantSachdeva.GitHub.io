@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['Contributing to Evolution X ', "Computer Science Student ", "@HemantSachdeva", "He Code When He's Bored ", "19 y.o "],
+      strings: ["Associate Software Engineer ", "21 y.o ", "Never says No to New ",],
       typeSpeed: 50,
       loop: true,
       cursorChar: "|",
