@@ -5,143 +5,148 @@
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvLink": "https://drive.google.com/file/d/12rzoomvCkyhhJ4KsQStO5hBnFPvYkHa3/view",
 
     "Banner.Pretitle": "Hello! I'm",
-    "Banner.Description": "With a dynamic <span class='underline'>4-year journey</span> in tech, I'm a passionate coder and solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an Associate Software Engineer. Proficient in <span class='underline'>Python, Flask, MongoDB, SQL, Git, and Linux</span>. For <span class='underline'>3 years</span> I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Currently, I'm steering my learning voyage into the realms of <span class='underline'>.NET and Microsoft Azure Data Factory.</span> Join me on this tech odyssey, where innovation meets dedication, and let's craft the future together!",
+    "Banner.Description": "With a dynamic <span class='underline'>4-year journey</span> in tech, I'm a passionate coder &amp; solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an <span class='underline'>Associate Software Engineer</span>. Proficient in <span class='underline'>Python, MongoDB, Git, &amp; Linux</span>. For <span class='underline'>3 years</span> I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Currently, I'm steering my learning voyage into the realms of <span class='underline'>.NET &amp; Microsoft Azure Data Factory.</span> Join me on this tech odyssey, where innovation meets dedication, &amp; let's craft the future together!",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>4 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "My tech journey started in college, dedicating <span class='underline'>3 years</span> to delivering <span class='underline'>Evolution X Android OS</span> for <span class='underline'>Xiaomi Mi A3</span> as a volunteer engaging <span class='underline'>thousands of global users</span>. Now, with <span class='underline'>1 year</span> in the corporate I'm expanding expertise at my organization with a focus on <span class='underline'>.NET</span> &#38; <span class='underline'>Microsoft Azure Data Factory</span>, showcasing my commitment to continual learning.",
+        "Beyond coding, I'm a <span class='underline'>speaker</span> and <span class='underline'>organizer</span> for nationwide tech events, emphasizing collaboration and knowledge-sharing. I do the same in my current organization as well.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
 
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [{
-            "Tab": "Project",
-            "Title": "Fullstack developer",
-            "Date": "December 2019 - Present",
+            "Tab": "H & R Block",
+            "Organization": "H & R BLOCK (INDIA) PRIVATE LIMITED",
+            "Title": "Associate Software Engineer",
+            "Date": "February 2023 - Present",
+            "Location": "Trivandrum, Kerala, India",
+            "LocationType": "On-site",
             "Description": [
-              "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-              "Functional programming in templates and plugins to add the necessary monitoring features.",
-              "Implementation of continuous integration and daily backups.",
-              "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-              "Planning meetings in reports."
+              "Currently maintaining the UI of the Pricing Tool, a crucial system used by all company franchisees for setting pricing fees during the US tax season.",
+              "Actively managing data binding operations between the user interface and the SQL database, including adding and removing elements as needed.",
+              "Providing valuable suggestions and actively implementing improvements to enhance the functionality and user experience.",
+              "Leveraging <span class='underline'>.NET, ASP.NET, JavaScript,</span> <span class='underline'>Microsoft Azure cloud services.</span>"
             ]
         },
         {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "May 2016 - Present",
+            "Tab": "MongoDB",
+            "Organization": "MongoDB Inc.",
+            "Title": "Creator - MongoDB Community Advocacy Program",
+            "Date": "February 2023 - Present",
+            "Location": "New York, USA",
+            "LocationType": "Remote",
             "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+              "The program enables enthusiastic program members to grow their knowledge, profile and leadership through engagement and advocacy of all users of MongoDB technologies.",
+              "Creators keeps the community updated with the latest trends in MongoDB and helps them to get started with MongoDB by providing them with the necessary resources.",
+              "Utilizing <span class='underline'>Blogging, Public Speaking,</span> <span class='underline'>Community Engagement, MongoDB</span> skills."
             ]
         },
         {
-            "Tab": "Moebius",
-            "Title": "FullStack developer",
-            "Date": "July 2017 - October 2018",
+            "Tab": "Timemarks Examiner",
+            "Organization": "Timemarks Examiner Pvt. Ltd.",
+            "Title": "Python Developer Intern",
+            "Date": "March 2022 - February 2023",
+            "Location": "Jaipur, Rajasthan, India",
+            "LocationType": "Remote",
             "Description": [
-              "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-              "Coding of API requests with RxJS.",
-              "Creation of modules with complex reactive forms",
-              "Writing weekly reports about goals and plans."
+              "Authored over <span class='underline'>50 RESTful APIs</span> performing CRUD operations on MongoDB cluster.",
+              "Implemented core features for Channel Chat and automated Bot that eases channel management for an admin.",
+              "Gained expertise in <span class='underline'>Python-Flask, MongoDB,</span> <span class='underline'>Linux Server, Postman.</span>"
             ]
         },
         {
-            "Tab": "TechLatam",
-            "Title": "Frontend developer",
-            "Date": "February 2016 - May 2017",
+            "Tab": "Haruka LLC",
+            "Organization": "Haruka LLC",
+            "Title": "Android OS Maintainer",
+            "Date": "February 2020 - January 2023",
+            "Location": "Tokyo, Japan",
+            "LocationType": "Remote",
             "Description": [
-              "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-              "integration of design improvements, and template loading times.",
-              "Effective communication with the design team, working with Avocode / Figma."
+              "Maintaining an Android Operating System (Evolution X) updates and bug fixes for Xiaomi Mi A3 mobile phone.",
+              "Helping with micro open-source project management and mentoring new contributors in times required.",
+              "Constant contribution towards the community of the project.",
+              "Developed proficiency in <span class='underline'>Android Open Source Project,</span> <span class='underline'>Linux Server Management,</span> <span class='underline'>Bash Scripting,</span> <span class='underline'>Git & Github.</span>"
             ]
         },
         {
-            "Tab": "CANTV",
-            "Title": "System analyst",
-            "Date": "November 2015 - December 2016",
+            "Tab": "Unread Innovations",
+            "Organization": "Unread Innovations",
+            "Title": "Backend Developer Intern",
+            "Date": "June 2022 - July 2022",
+            "Location": "Calicut, Kerala, India",
+            "LocationType": "Remote",
             "Description": [
-              "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-              "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
+              "Designed One RESTful API for highly optimized and resumable file uploads to the organization’s S3 bucket and store metadata to database. This enhanced the file upload speed by 50%.",
+              "Written a Selenium script for adding some free useful simulations scrapped from an open-source websites that reduce the efforts of educators by 30%. These simulations’ metadata is also stored in database using the same script.",
+              "Utilized <span class='underline'>Python-Flask, Selenium, Web Scrapping,</span> <span class='underline'>MySQL, AWS S3, Postman</span> skills."
             ]
-        },
-        {
-            "Tab": "IEP",
-            "Title": "English teacher",
-            "Date": "January 2015 - July 2015",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
         }
     ],
 
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
-            "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+            "Title": "Evolution X",
+            "Description": [
+                "Contributed to the development and maintenance of an Android custom ROM, which includes bringing <span class='underline'>Android 11, 12 and 13</span> to the Xiaomi Mi A3 <span class='underline'>when</span> Xiaomi failed to keep our device a daily driver.",
+                "Provided <span class='underline'>timely updates</span> and <span class='underline'>required patches</span> for security vulnerabilities and bugs, ensuring that <span class='underline'>2000+ users</span> over the globe always get a stable and secure experience."
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "ghLink": "https://github.com/Evolution-X",
+            "demoLink": "https://xdaforums.com/t/official-rom-13-evolutionx-7-5-01-11-2023.4193431",
             "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
+                "assets/images/projects/evolution-x/1.png",
+                "assets/images/projects/evolution-x/2.png",
+                "assets/images/projects/evolution-x/3.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["Android", "Linux", "Git", "Github"]
         },
         {
-            "Title": "Proyexiot",
-            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": "G-Books",
+            "Description": [
+                "<span class='underline'>Led</span> a team of <span class='underline'>5 Android Enthusiasts</span> for developing an <span class='underline'>Open Source Android app</span> during 45+ days of facilitating <span class='underline'>Android Study Jams</span> on college campus under GDSC (local community).",
+                "Implemented the <span class='underline'>database models</span> for the app and used the <span class='underline'>Google Books API</span> to search, preview, and buy any number of e-books out of 1000K+ available over there."
+            ],
+            "ghLink": "https://github.com/gdsc-bbsbec/GBooks",
             "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
+                "assets/images/projects/g-books/1.png",
+                "assets/images/projects/g-books/2.png",
+                "assets/images/projects/g-books/3.png",
+                "assets/images/projects/g-books/4.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["Android", "Kotlin", "Room Database", "Retrofit", "Github Actions"]
         },
         {
-            "Title": "Hands game",
-            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+            "Title": "Person Counter",
+            "Description": [
+                "Scripted a <span class='underline'>CLI</span> which takes either a <span class='underline'>video</span> or <span class='underline'>image file path</span> as an argument, <span class='underline'>count</span> and <span class='underline'>display</span> the total <span class='underline'>number of person,</span> in the static image and at every instant while a footage is playing."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/person_counter",
+            "imgs": [
+                "assets/images/projects/person-counter/1.png",
+                "assets/images/projects/person-counter/2.png"
+            ],
+            "Technologies": ["Python", "OpenCV"]
         },
         {
-            "Title": "Countries viewer",
-            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
+            "Title": "Temp Mail",
+            "Description": [
+                "Developed a <span class='underline'>CLI</span> which generates a temporary email address and displays it to the user.",
+                "The user can then use this email address to <span class='underline'>receive emails</span> from other users and use the <span class='underline'>CLI</span> to <span class='underline'>view the emails</span> and <span class='underline'>sender details.</span>"
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/TempMail",
+            "imgs": [
+                "assets/images/projects/temp-mail/1.png",
+                "assets/images/projects/temp-mail/2.png",
+                "assets/images/projects/temp-mail/3.png",
+                "assets/images/projects/temp-mail/4.png"
+            ],
+            "Technologies": ["Bash", "cURL", "JQ", "W3M"]
         }
     ],
 
@@ -149,52 +154,54 @@
 
     "OtherProjects.Title": "More projects",
     "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Title": "Expense Tracker",
+            "Description": [
+                ".NET project prepared to visualise your daily expenses and visualise graphical based on categories (groceries, fashion, parties, etc .) you spend on."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ExpenseTracker",
+            "Technologies": [".NET", "C#"]
         },
         {
-            "Title": "Coming soon page",
-            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+            "Title": "To-Do App",
+            "Description": [
+                "A simple to do list app built with Django and PostgreSQL made to get familiar with User Authentication in Django Framework."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ToDoApp",
+            "Technologies": ["Python", "Django", "PostgreSQL"]
         },
         {
-            "Title": "Four card feature section",
-            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
+            "Title": "IT Spotlight",
+            "Description": [
+                "A minor project based on hackernews api aiming to provide tech news in an interactive and a better way than the hackernews official website itself."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/ITSpotlight",
+            "Technologies": ["Python", "Flask", "RESTful API"]
         },
         {
-            "Title": "Social proof section",
-            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-            "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
+            "Title": "Google Cloud Profile Badges Scraper",
+            "Description": [
+                "Track digitally earned badges after completing Google Cloud challenges in Qwiklabs platform.",
+                "It also consists Github Actions workflow to automate the tracking process."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/google_cloud_profile_scraper",
+            "demoLink": "https://github.com/HemantSachdeva/google_cloud_profile_scraper/blob/dumps/data/output.csv",
+            "Technologies": ["Python", "BeautifulSoup", "Github Actions"]
         },
         {
-            "Title": "FAQ accordion card",
-            "Description": "FAQ accordion with logic and animations made in Angular.",
-            "ghLink": "https://github.com/andresjosehr/faq-accordion",
-            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-            "ghLink": "https://github.com/andresjosehr/profile-card-component",
-            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Title": "Google Developer Profile Badges Scraper",
+            "Description": [
+                "Track digitally earned badges after completing Google Developer's challenges.",
+                "It also consists Github Actions workflow to automate the tracking process."
+            ],
+            "ghLink": "https://github.com/HemantSachdeva/google_developers_profile_scraper",
+            "demoLink": "https://github.com/HemantSachdeva/google_developers_profile_scraper/blob/dumps/data/scrapped_data.csv",
+            "Technologies": ["Python", "BeautifulSoup", "Github Actions"]
         }
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-    "Contact.Btn": "Say Hello"
+    "Contact.Content": "I welcome the opportunity to engage in discussions about potential collaborations or new professional endeavors. Please feel free to reach out, and I will respond promptly upon receiving your message. Thank you for considering me, and I look forward to the possibility of connecting with you.",
+    "Contact.Btn": "Let's Connect on LinkedIn!"
 
 
 }
