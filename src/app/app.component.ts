@@ -25,8 +25,8 @@ export class AppComponent implements OnInit{
     this.titleService.setTitle( "Hemant Sachdeva | Backend Developer" );
 
     this.metaService.addTags([
-      {name: 'keywords', content: 'Backend, software, developer'},
-      {name: 'description', content: 'With a dynamic 4-year journey in tech, I\'m a passionate coder and solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an Associate Software Engineer.'},
+      {name: 'keywords', content: "Backend, software, developer"},
+      {name: 'description', content: "With a dynamic 4-year journey in tech, I'm a passionate coder and solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an Associate Software Engineer."},
     ]);
     
     
