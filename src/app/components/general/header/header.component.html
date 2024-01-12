@@ -54,6 +54,23 @@
                         </a>
                       </li>
                       <li>
+                        <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "footer", "email")'
+                            href="mailto:hemant.evolver@gmail.com" target='_blank'>&#9993; hemant.evolver@gmail.com
+                        </a>
+                      </li>
+                      <li>
+                        <a (click)='analyticsService.sendAnalyticEvent("click_github", "footer", "github")'
+                            href="https://github.com/HemantSachdeva" target='_blank'>
+                            <i class="fab fa-github"></i>&nbsp; @HemantSachdeva
+                        </a>
+                      </li>
+                      <li>
+                        <a (click)='analyticsService.sendAnalyticEvent("click_github", "footer", "github")'
+                            href="https://linkedin.in/in/Hemant-Sachdeva" target='_blank'>
+                            <i class="fab fa-linkedin"></i>&nbsp; @Hemant-Sachdeva
+                        </a>
+                      </li>
+                      <li>
                           <a (click)="openCV()" class="main-btn cv-btn">
                             {{"Header.cvBtn" | translate}}
                           </a>
