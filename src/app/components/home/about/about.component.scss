@@ -10,7 +10,7 @@
     .about-img-container{
         width: 324px;
         margin: auto;
-
+    
         &:after{
             content: '';
             border: 2px solid $Green;
@@ -22,14 +22,18 @@
             border-radius: 3px;
             bottom: 290px;
             left: 23px;
-
+            transition: all 0.3s ease;
         }
-
+    
         img{
             z-index: 2;
             position: relative;
+            transition: transform 0.3s ease;
+            &:hover {
+                transform: scale(1.1);
+            }
         }
-    }
+    }    
 
     .skills-list{
         display: grid;
