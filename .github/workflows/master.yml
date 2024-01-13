@@ -1,0 +1,62 @@
+name: Build and Push Artifacts
+
+on:
+  workflow_dispatch:
+  push: { branches: [master] }
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 21
+
+      - name: Install Angular CLI
+        run: npm install -g @angular/cli
+
+      - name: Install Dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build
+        run: ng build --configuration="production" --cross-origin="anonymous" && pwd && ls -l
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: dist
+          retention-days: 1
+
+  push:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          ref: builds
+
+      - name: Clear working directory
+        run: rm -rf *
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: build
+
+      - name: Push
+        run: |
+          mv hemant-portfolio/* . && rm -rf hemant-portfolio
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Build $(date +'%Y-%m-%d %H:%M')"
+          git push origin builds
