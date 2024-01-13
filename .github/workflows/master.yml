@@ -7,8 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Kolkata
 
     steps:
       - name: Checkout Repository
@@ -38,6 +36,8 @@ jobs:
   push:
     needs: build
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
