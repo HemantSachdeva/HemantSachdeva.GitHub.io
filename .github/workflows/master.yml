@@ -27,7 +27,7 @@ jobs:
         run: ng build --configuration="production" --cross-origin="anonymous" && pwd && ls -l
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: build
           path: dist
@@ -48,7 +48,7 @@ jobs:
         run: rm -rf *
 
       - name: Download Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: build
 
