@@ -8,12 +8,12 @@
     "Header.cvLink": "https://drive.google.com/file/d/12rzoomvCkyhhJ4KsQStO5hBnFPvYkHa3/view",
 
     "Banner.Pretitle": "Hello! I'm",
-    "Banner.Description": "With a dynamic <span class='underline'>4-year journey</span> in tech, I'm a passionate coder &amp; solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an <span class='underline'>Associate Software Engineer</span>. Proficient in <span class='underline'>Python, MongoDB, Git, &amp; Linux</span>. For <span class='underline'>3 years</span> I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Currently, I'm steering my learning voyage into the realms of <span class='underline'>.NET &amp; Microsoft Azure Data Factory.</span> Join me on this tech odyssey, where innovation meets dedication, &amp; let's craft the future together!",
+    "Banner.Description": "With a dynamic journey in <span class='underline'>tech</span> since <span class='underline'>2019</span>, I'm a passionate coder &amp; solution architect with a trailblazing journey from delivering global production products during college to navigating the corporate realm as an <span class='underline'>Associate Software Engineer</span>. Proficient in <span class='underline'>Python, MongoDB, Git, &amp; Linux</span>. For <span class='underline'>3 years</span>, I've left an indelible mark maintaining the <span class='underline'>Evolution X Android OS </span> for <span class='underline'>Xiaomi Mi A3</span>. Now, as a <span class='underline'>Data Engineer</span> at <span class='underline'>H&amp;R Block</span>, I focus on data platforms like <span class='underline'>Azure Data Factory, SQL Server,</span> &amp; <span class='underline'>Microsoft Power Platform</span> (including <span class='underline'>Power Automate</span> and <span class='underline'>Power Apps</span>). Join me on this tech odyssey, where innovation meets dedication, &amp; let's craft the future together!",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "My tech journey started in college, dedicating <span class='underline'>3 years</span> to delivering <span class='underline'>Evolution X Android OS</span> for <span class='underline'>Xiaomi Mi A3</span> as a volunteer engaging <span class='underline'>thousands of global users</span>. Now, with <span class='underline'>1 year</span> in the corporate I'm expanding expertise at my organization with a focus on <span class='underline'>.NET</span> &#38; <span class='underline'>Microsoft Azure Data Factory</span>, showcasing my commitment to continual learning.",
+        "My tech journey started in college, dedicating <span class='underline'>3 years</span> to delivering <span class='underline'>Evolution X Android OS</span> for <span class='underline'>Xiaomi Mi A3</span> as a volunteer engaging <span class='underline'>thousands of global users</span>. Now, since joining <span class='underline'>H&R Block</span> in <span class='underline'> February 2023</span>, I'm expanding my expertise at my organization, focusing on <span class='underline'>Microsoft Azure Data Factory</span>, <span class='underline'>SQL Server</span>, and <span class='underline'>Microsoft Power Platform</span>, showcasing my commitment to continual learning.",
         "Beyond coding, I'm a <span class='underline'>speaker</span> and <span class='underline'>organizer</span> for nationwide tech events, emphasizing collaboration and knowledge-sharing. I do the same in my current organization as well.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
@@ -28,17 +28,17 @@
             "Location": "Trivandrum, Kerala, India",
             "LocationType": "On-site",
             "Description": [
-              "Currently maintaining the UI of the Pricing Tool, a crucial system used by all company franchisees for setting pricing fees during the US tax season.",
-              "Actively managing data binding operations between the user interface and the SQL database, including adding and removing elements as needed.",
-              "Providing valuable suggestions and actively implementing improvements to enhance the functionality and user experience.",
-              "Leveraging <span class='underline'>.NET, ASP.NET, JavaScript,</span> <span class='underline'>Microsoft Azure cloud services.</span>"
+              "Initially maintained the UI of the Pricing Tool, a crucial system used by 1500+ franchisees of our company for setting pricing fees during the US income tax season, utilizing <span class='underline'>.NET, ASP.NET,</span> and <span class='underline'>JavaScript</span> skills.",
+              "Managed data binding operations between the user interface and the SQL database, ensuring seamless data flow and element updates.",
+              "Currently working on a Data Engineering project, focusing on optimizing and managing data pipelines and workflows using <span class='underline'>Microsoft Azure Data Factory</span>, <span class='underline'>SQL Server</span>, and <span class='underline'>Microsoft Power Platform</span>.",
+              "Collaborating with cross-functional teams to improve data systems, enhance scalability, and optimize the data integration process for better decision-making."
             ]
         },
         {
             "Tab": "MongoDB",
             "Organization": "MongoDB Inc.",
             "Title": "Creator - MongoDB Community Advocacy Program",
-            "Date": "February 2023 - Present",
+            "Date": "February 2023 - January 2024",
             "Location": "New York, USA",
             "LocationType": "Remote",
             "Description": [
