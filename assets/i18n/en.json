@@ -23,15 +23,17 @@
     "Experience.Jobs": [{
             "Tab": "H & R Block",
             "Organization": "H & R BLOCK (INDIA) PRIVATE LIMITED",
-            "Title": "Associate Software Engineer",
+            "Title": "Software Engineer",
             "Date": "February 2023 - Present",
             "Location": "Trivandrum, Kerala, India",
             "LocationType": "On-site",
             "Description": [
-              "Initially maintained the UI of the Pricing Tool, a crucial system used by 1500+ franchisees of our company for setting pricing fees during the US income tax season, utilizing <span class='underline'>.NET, ASP.NET,</span> and <span class='underline'>JavaScript</span> skills.",
-              "Managed data binding operations between the user interface and the SQL database, ensuring seamless data flow and element updates.",
-              "Currently working on a Data Engineering project, focusing on optimizing and managing data pipelines and workflows using <span class='underline'>Microsoft Azure Data Factory</span>, <span class='underline'>SQL Server</span>, and <span class='underline'>Microsoft Power Platform</span>.",
-              "Collaborating with cross-functional teams to improve data systems, enhance scalability, and optimize the data integration process for better decision-making."
+              "Contributing to the consolidation of two enterprise data platforms by redesigning integration architecture, identifying reusable components, and ensuring seamless pipeline and database interoperability.",
+              "Led the migration of a major subsystem into a standalone platform, including Azure Data Factory pipeline migration, database cloning (tables, UDTs, stored procedures), and Azure DevOps CI/CD implementation.",
+              "Working on a Data Engineering project, focusing on optimizing and managing data pipelines and workflows using <span class='underline'>Microsoft Azure Data Factory</span>, <span class='underline'>SQL Server</span>, and <span class='underline'>Microsoft Power Platform</span>.",
+              "Collaborating with cross-functional teams to improve data systems, enhance scalability, and optimize the data integration process for better decision-making.",
+              "Maintained and enhanced the ASP.NET MVC UI for the U.S. Franchise Pricing Tool used by 15,000+ franchise offices during the tax season.",
+              "Developed a PowerApp for HR workflows, reducing manual processing effort by 70%."
             ]
         },
         {
